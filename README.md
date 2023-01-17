@@ -1,6 +1,6 @@
 # AudioVisualizer
 An audio visualizer that uses the input from your microphone!
-[](file:///C:/Users/vyves/Downloads/Jan-10.gif)
+[a](file:///C:/Users/vyves/Downloads/Jan-10.gif)
 
 Try it out [here](https://codepen.io/HallowsYves/pen/eYjGpPg)!
 
