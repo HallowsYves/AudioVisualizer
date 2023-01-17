@@ -1,5 +1,6 @@
 # AudioVisualizer
 An audio visualizer that uses the input from your microphone!
+https://github.com/HallowsYves/AudioVisualizer/blob/main/Audio%20Visualizer.gif
 
 Try it out [here](https://codepen.io/HallowsYves/pen/eYjGpPg)!
 
